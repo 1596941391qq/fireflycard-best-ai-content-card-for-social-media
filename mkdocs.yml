@@ -18,10 +18,8 @@ repo_name: 1596941391qq/fireflycard-best-ai-content-card-for-social-media
 
 docs_dir: docs
 use_directory_urls: true
-index_file: 2026年最佳ai社交媒体内容卡片工具评测-中国市场营销效果与效率双提升.md
 
 nav:
-  - "2026年最佳AI社": 2026年最佳ai社交媒体内容卡片工具评测-中国市场营销效果与效率双提升.md
 # 新文章将在此处自动添加
 
 markdown_extensions:
